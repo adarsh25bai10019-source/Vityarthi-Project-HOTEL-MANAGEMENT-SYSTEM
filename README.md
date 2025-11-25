@@ -1,11 +1,9 @@
 #  Sunrise Hotel Management System 
 
 **A Simple Console-Based Hotel Booking System made in Python**  
-*(First-Year Mini Project – 2025)*
+
 
 Hey there!  This is a small but complete Hotel Management System I built as my first-year Python project. It can book rooms, check-in guests, generate bills at checkout, and show who’s currently staying – everything a small hotel’s reception needs!
-
-It’s 100% made in Python, no internet or database needed – everything runs in your terminal!
 
 ---
 
@@ -31,9 +29,15 @@ It’s 100% made in Python, no internet or database needed – everything runs i
 
 ---
 
-###  How to Install & Run
+###  Steps to install & run the project
 
 1. Download the main.py file
 2. Run in the terminal.
 3. Give proper commands.
+
+### Instructions for testing
+
+1. Ensure to use proper numbering.
+2. Ensure you download the correct file.
+   
 
