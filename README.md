@@ -3,7 +3,7 @@
 **A Simple Console-Based Hotel Booking System made in Python**  
 
 
-Hey there!  This is a small but complete Hotel Management System I built as my first-year Python project. It can book rooms, check-in guests, generate bills at checkout, and show who’s currently staying – everything a small hotel’s reception needs!
+This is a small but complete Hotel Management System I built as my first-year Python project. It can book rooms, check-in guests, generate bills at checkout, and show who’s currently staying – everything a small hotel’s reception needs!
 
 ---
 
